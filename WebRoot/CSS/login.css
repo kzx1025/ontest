@@ -1,0 +1,125 @@
+@CHARSET "UTF-8";
+@charset "utf-8";
+.reg_container {
+    background: url("../image/reg_head.jpg") repeat-x;
+    height: 0px;
+    width: 100%
+}
+
+body {
+    font-family: Microsoft YaHei, Arial, Helvetica, sans-serif !important;
+}
+
+.reg_head {
+    width: 812px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.reg_head a {
+    color: #858585;
+    font-size: 16px;
+    line-height: 61px;
+    font-weight: bold
+}
+
+.reg_head a:hover {
+    color: white;
+    text-decoration: none
+}
+
+.reg_body {
+    background-color: #596068;
+    height: 800px;
+    width: 100%
+}
+
+a.zhuc:hover {
+    text-decoration: underline;
+}
+
+.body_container {
+    width: 812px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body_container span {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    line-height: 60px;
+    text-align: center;
+    margin-left: 210px
+}
+
+.reg_main {
+    width: 812px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    border: solid 30px #1D2025;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.reg_main .panel-heading {
+    background-color: #D9D9D9;
+    /*height: 52px;*/
+    padding-top: 18px;
+    padding-left: 40px;
+}
+
+.reg_main .panel-heading .panel-title {
+    color: #676C72;
+    font-weight: bold;
+}
+
+.row_one {
+    height: 190px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.reg_left {
+    width: 650px;
+    font-size: 20px;
+    font-weight: bold
+}
+
+.input_box {
+    width: 420px;
+    height: 45px;
+}
+
+/*
+*忘记密码
+*/
+.fgt_password {
+    font-size: 15px;
+    font-weight: normal;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+.resume {
+    font-size: 13px;
+    float: right;
+    padding-top: 12px;
+    margin-right: 340px;
+}
+
+.banquan {
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    color: #a2a2a2
+}

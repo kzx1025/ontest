@@ -1,0 +1,143 @@
+@CHARSET "UTF-8";
+body {
+    background-color: #ffffff;
+    font-family: Microsoft YaHei, Arial, Helvetica, sans-serif!important;
+}
+
+label {
+    font-weight: normal;
+}
+
+#back_color {
+    height: 1400px;
+    width: 100%;
+    background-color: #596068;
+}
+
+@charset "utf-8";
+.reg_container {
+    background: url("../image/reg_head.jpg") repeat-x;
+    height: 63px;
+    width: 100%
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.reg_head a {
+    color: #858585;
+    font-size: 16px;
+    line-height: 61px;
+    font-weight: bold
+}
+
+.reg_head a:hover {
+    color: white;
+    text-decoration: none
+}
+
+.reg_body {
+    background-color: #596068;
+    height: 800px;
+    width: 100%
+}
+
+a.zhuc:hover {
+    text-decoration: underline;
+}
+
+.body_container span {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    line-height: 60px;
+    text-align: center;
+    margin-left: 210px
+}
+
+.reg_main {
+    height: 480px;
+    border: solid 30px #1D2025;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.row_one {
+    height: 190px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.reg_head {
+    width: 812px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body_container {
+    width: 812px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container {
+    border: solid 30px #2f3640;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    background-color: white;
+    height: auto;
+}
+
+#main_head {
+    height: 52px;
+    background-color: #d9d9d9;
+    padding-top: 15px;
+    border-bottom: solid 1px black;
+}
+
+#main_reg {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 40px;
+    color: #656c74;
+}
+
+#info_container {
+    width: 712px;
+    margin: 0 auto;
+
+}
+
+.common_width {
+    width: 812px;
+    margin: 0 auto;
+}
+
+#baseInfo {
+    width: 100%;
+    /*margin-top: 20px;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+}
+
+#eduInfo {
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+.input_height{
+    height:30px;
+}
+
+.banquan {
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    color: #a2a2a2
+}
